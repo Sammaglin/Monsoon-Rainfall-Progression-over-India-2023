@@ -1,0 +1,6 @@
+geopandas
+matplotlib
+netCDF4
+numpy
+imageio
+shapely
