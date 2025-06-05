@@ -10,19 +10,3 @@ This project visualizes the progression of monsoon rainfall over India for the y
 - Outputs a smooth animated GIF showing monsoon progression
 
 ---
-monsoon-rainfall-india-2023/
-│
-├── Data/                             # Your NetCDF rainfall dataset
-│   └── PERSIANN_India_2025-06-04094807pm_2023.nc
-│
-├── IND_SHP/                          # India shapefile folder
-│   └── India_State_Boundary.shp
-│   └── (other .shx, .dbf, etc.)
-│
-├── monsoon_progression.gif          # Final generated GIF
-│
-├── monsoon_visualization.py        # Your main Python script
-│
-├── requirements.txt                 # Dependencies
-│
-└── README.md                        # Project description & usage
